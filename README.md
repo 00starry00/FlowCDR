@@ -40,7 +40,7 @@ Parameters settings:
 - seed: random seed, default as `1`
 - root: root path, default as `./`
 - save_path: path to save model files for base models and load model for CDRs, default as `./model_save_default/model.pth`
-- flow_lr: learning rate of DiffCDR,default as `0.01`.
+- flow_lr: learning rate of FlowCDR,default as `0.01`.
 
 
 You can run models through:
