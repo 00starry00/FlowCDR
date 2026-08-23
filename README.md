@@ -1,8 +1,10 @@
-# Optimal Preference Transport for Cross-Domain Recommendation via Flow Matching (FlowCDR)
+# Flow Matching Based Preference Transfer for Cross-Domain Recommendation (FlowCDR)
 
 ## Introduction
 
-This repository provides the implementation of **FlowCDR** from the paper: *Optimal Preference Transport for Cross-Domain Recommendation via Flow Matching*.
+This repository provides the implementation of **FlowCDR**, accepted at **WISE 2026** (The International Conference on Web Information Systems Engineering).
+
+
 
 
 
